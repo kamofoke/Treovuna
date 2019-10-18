@@ -8,7 +8,7 @@ body{
     float: left;
 }
 .topnav .left:hover{
-    
+    border-bottom: white;
 }
 .topnav{overflow:hidden;
     background-color:#F9F9F9;
@@ -43,7 +43,7 @@ body{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -80%);
     font-family: monospace;
     font-size: 100px;
     color: #afa6fc;
